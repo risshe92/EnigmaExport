@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Export notes as themed PDFs with your active Obsidian theme applied",
-  "author": "ragnar",
+  "author": "risshe",
   "isDesktopOnly": true
 }
 
