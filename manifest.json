@@ -1,0 +1,10 @@
+{
+  "id": "enigma-export",
+  "name": "Enigma Export",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Export notes as themed PDFs with your active Obsidian theme applied",
+  "author": "ragnar",
+  "isDesktopOnly": true
+}
+
